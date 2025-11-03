@@ -1,4 +1,4 @@
-![4](https://github.com/user-attachments/assets/15701eee-3631-4803-a9a5-7817fd1165d3)# EXP-4
+# EXP-4
 # EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
 ## AIM:
