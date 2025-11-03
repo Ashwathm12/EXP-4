@@ -1,4 +1,4 @@
-# EXP-4
+![4](https://github.com/user-attachments/assets/15701eee-3631-4803-a9a5-7817fd1165d3)# EXP-4
 # EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
 ## AIM:
@@ -59,15 +59,16 @@ Full Wave rectifier with filter:
 
 ## Tabulation:
 
-![BEEE_exp4_page-0001](https://github.com/user-attachments/assets/5d72e636-c856-447f-9016-283025128c47)
+![1](https://github.com/user-attachments/assets/6bebe164-ff92-4886-be8f-af8254baea2f)
+![2](https://github.com/user-attachments/assets/5239c51d-60d4-4e41-8840-f6db4b4441e9)
+![3](https://github.com/user-attachments/assets/674df97c-82ba-478b-a68f-834c8a106947)
 
-![BEEE_exp4_page-0002](https://github.com/user-attachments/assets/671a65e5-7909-46eb-8bd7-edf12af372dd)
+![4](https://github.com/user-attachments/assets/08d0c52c-24e0-4664-a7c6-2eba21b9a55f)
+![5](https://github.com/user-attachments/assets/4f496bec-fb8d-444d-858d-09880d0733f4)
+![6](https://github.com/user-attachments/assets/04eae61b-c910-4f65-87ba-7d65df12f08e)
+![7](https://github.com/user-attachments/assets/862ed9e4-792c-4585-8bb7-95fe0eac6830)
 
-![BEEE_exp4_page-0003](https://github.com/user-attachments/assets/d3076065-f3dd-4d19-a96a-5a37f47eb7e3)
 
-![BEEE_exp4_page-0004](https://github.com/user-attachments/assets/9df1d1cc-3c45-4a0b-bf99-cb712dbc5423)
-
-![BEEE_exp4_page-0005](https://github.com/user-attachments/assets/dfa98b19-9286-4de2-96ea-3cc94088a071)
 
 
 
